@@ -1,6 +1,8 @@
 from,to,type,discardQueryParameters
 "//lingerie%20cuecas%20adulto%20139%20branco/focko-sex/sofisticatto/cimed/sude-presentes?map=ft,b,b,b,b&O=OrderByReleaseDateDESC",/lingerie,permanent,true
+"/lingerie%20cuecas%20adulto%20139%20branco/focko-sex/sofisticatto/cimed/sude-presentes?map=ft,b,b,b,b&O=OrderByReleaseDateDESC",/lingerie,permanent,true
 "//testvirgula?map=ft,b,b,b,b&O=OrderByReleaseDateDESC",/lingerie,permanent,true
+"/testvirgulabarra?map=ft,b,b,b,b&O=OrderByReleaseDateDESC",/lingerie,permanent,true
 "/lingerie%20cuecas%20adulto%20139%20branco/focko-sex/sofisticatto/cimed/sude-presentes?map=ft,b,b,b,b&O=OrderByReleaseDateDESC",/lingerie,permanent,true
 "//testvirgulasemmapcomnvirgula,teste",/lingerie,permanent,true
 /testcorreta,/lingerie,permanent,true

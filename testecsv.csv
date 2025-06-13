@@ -1,7 +1,4 @@
 from;to;type;discardQueryParameters
-//lingerie%20cuecas%20adulto%20139%20branco/focko-sex/sofisticatto/cimed/sude-presentes?map=ft,b,b,b,b&O=OrderByReleaseDateDESC;/testcsv;permanent;true
-;;;
-;;;
-;;;
-;;;
-;;;
+//testandocsv?map=ft,b,b,b,b&O=OrderByReleaseDateDESC;/testcsv;permanent;true
+/testandocsv2?map=ft,b,b,b,b&O=OrderByReleaseDateDESC;/testcsv2;permanent;true
+/testandocsv3?map=ft,b,b,b,b&O=OrderByReleaseDateDESC;/testcsv3;permanent;false
